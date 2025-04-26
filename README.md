@@ -14,7 +14,9 @@
 <a href="https://www.linkedin.com/in/bipin-baby-mathew-385714287/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://kaggle.com/bipin baby mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bipin baby mathew" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/bipinbabymathew" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
 <a href="https://instagram.com/chi_kk_00_z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chi_kk_00_z" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bipin baby mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bipin baby mathew" height="30" width="40" /></a>
 </p>
